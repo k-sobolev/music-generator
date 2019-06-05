@@ -1,4 +1,4 @@
-class Model(nn.Module):
+class CNN_Model(nn.Module):
     def __init__(self, input_size, output_size):
 
         super(self.__class__, self).__init__()
